@@ -1,0 +1,41 @@
+h1{
+	color: darkred;
+}
+
+h2{
+	font-style: oblique;
+	color: blue;
+}	
+
+img{border-style: double; color: yellow;} 
+
+p{color: lightcoral;}
+
+
+
+
+body{background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+
+}
+
+div{
+	width: 800px;
+	border: 1px dotted;
+	padding: 16px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 32px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	border-radius: 18px;
+}
+
+.btn-blue {
+	padding: 10px 16px;
+	text-decoration: none;
+	background-color: pink;
+	color: white;
+}
+
+.btn-blue:hover{
+	background-color: cyan;
+}
